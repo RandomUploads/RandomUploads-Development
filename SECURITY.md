@@ -14,4 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Expect a security update once a month, and a major revision once every 6 months.
+Expect a security update once a month, and a major revision once every 6 months. Report a vulnerability through the discord server. Use the channel called security-issues.
